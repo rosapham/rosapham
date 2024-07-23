@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Rosa Pham
-### Data Analyst | Data Engineer
+### Data Engineer
 
 - 👩‍💻 All of my projects are available at : https://rosapham.vercel.app/
   
