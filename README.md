@@ -7,5 +7,5 @@
   
 - 💬 Ask me about **Data Visualisation**, **Data Modelling**
   
-- 📫 How to reach me: dinhlang86@gmail.com
+- 📫 How to reach me: rosapham.de@gmail.com
 
